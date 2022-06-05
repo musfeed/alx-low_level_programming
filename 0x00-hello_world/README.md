@@ -134,7 +134,6 @@ Write a script that runs a C file through the preprocessor and save the result i
 * The C file name will be saved in the variable `$CFILE`
 * The output should be saved in the file `c`
 
-**Solution:** [0-preprocessor](https://github.com/musfy/alx-low_level_programming/blob/master/0x00-hello_world/0-preprocessor)
 
 ```
 $ amonkeyprogrammer@ubuntu:~/c/0x00$ cat main.c 
@@ -169,10 +168,9 @@ $ amonkeyprogrammer@ubuntu:~/c/0x00$
   
     
 ### Repo
-        
-          * GitHub repository: alx-low_level_programming
-          * Directory: 0x00-hello_world
-          * File: 0-preprocessor
+  * GitHub repository: alx-low_level_programming
+  * Directory: 0x00-hello_world
+  * File: [0-preprocessor](https://github.com/musfy/alx-low_level_programming/blob/master/0x00-hello_world/0-preprocessor)
         
 
   
@@ -183,8 +181,6 @@ Write a script that compiles a C file but does not link.
 * The C file name will be saved in the variable `$CFILE`
 * The output file should be named the same as the C file, but with the extension `.o` instead of `.c`. 
     * Example: if the C file is `main.c`, the output file should be `main.o`
-
-**Solution:** [1-compiler](https://github.com/musfy/alx-low_level_programming/blob/master/0x00-hello_world/1-compiler)
 
 ```
 $ amonkeyprogrammer@ubuntu:~/c/0x00$ export CFILE=main.c
@@ -209,11 +205,10 @@ $ amonkeyprogrammer@ubuntu:~/c/0x00$ cat -v main.o | head
 ^@^@^@^H^@^@^@^H^@^@^@^@^@^@^@^X^@^@^@^@^@^@^@  ^@^@^@^C^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@M-^P^A^@^@^@^@^@^@^M^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^A^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@$ amonkeyprogrammer@ubuntu:~/c/0x00$
 ```
 
-### Repo
-        
-          * GitHub repository: alx-low_level_programming
-          * Directory: 0x00-hello_world
-          * File: 1-compiler
+### Repo    
+   * GitHub repository: alx-low_level_programming
+   * Directory: 0x00-hello_world
+   * File: [1-compiler](https://github.com/musfy/alx-low_level_programming/blob/master/0x00-hello_world/1-compiler)
 
 ## 2. Assembler
 
@@ -223,7 +218,7 @@ Write a script that generates the assembly code of a C code and save it in an ou
 * The output file should be named the same as the C file, but with the extension `.s` instead of `.c`. 
     * Example: if the C file is `main.c`, the output file should be `main.s`
 
-**Solution:** [2-assembler](https://github.com/musfy/alx-low_level_programming/blob/master/0x00-hello_world/2-assembler)
+
 
 ```
 $ amonkeyprogrammer@ubuntu:~/c/0x00$ export CFILE=main.c
@@ -269,9 +264,9 @@ $ amonkeyprogrammer@ubuntu:~/c/0x00$
 
 ### Repo
         
-          * GitHub repository: alx-low_level_programming
-          * Directory: 0x00-hello_world
-          * File: 2-assembler
+   * GitHub repository: alx-low_level_programming
+   * Directory: 0x00-hello_world
+   * File: [2-assembler](https://github.com/musfy/alx-low_level_programming/blob/master/0x00-hello_world/2-assembler)
 
 ## 3. Name
 
@@ -279,7 +274,7 @@ Write a script that compiles a C file and creates an executable named `cisfun`.
 
 * The C file name will be saved in the variable `$CFILE`
 
-**Solution:** [3-name](https://github.com/musfy/alx-low_level_programming/blob/master/0x00-hello_world/3-name)
+ 
 
 ```
 $ amonkeyprogrammer@ubuntu:~/c/0x00$ export CFILE=main.c
@@ -303,9 +298,9 @@ $ amonkeyprogrammer@ubuntu:~/c/0x00$
 ```
 ### Repo
         
-          * GitHub repository: alx-low_level_programming
-          * Directory: 0x00-hello_world
-          * File: 3-name
+   * GitHub repository: alx-low_level_programming
+   * Directory: 0x00-hello_world
+   * File: [3-name](https://github.com/musfy/alx-low_level_programming/blob/master/0x00-hello_world/3-name)
 
 
 ## 4. Hello, puts
@@ -316,7 +311,7 @@ Write a C program that prints exactly `"Programming is like building a multiling
 * You are not allowed to use `printf`
 * Your program should end with the value `0`
 
-**Solution:** [4-puts.c](https://github.com/musfy/alx-low_level_programming/blob/master/0x00-hello_world/4-puts.c)
+
 
 ```
 $ amonkeyprogrammer@ubuntu:~/c/0x00$ gcc 4-puts.c && ./a.out
@@ -327,9 +322,9 @@ $ amonkeyprogrammer@ubuntu:~/c/0x00$
 ```
 ### Repo
         
-          * GitHub repository: alx-low_level_programming
-          * Directory: 0x00-hello_world
-          * File: 4-puts.c
+   * GitHub repository: alx-low_level_programming
+   * Directory: 0x00-hello_world
+   * File: [4-puts.c](https://github.com/musfy/alx-low_level_programming/blob/master/0x00-hello_world/4-puts.c)
 
 ## 5. Hello, printf
 
@@ -340,7 +335,7 @@ Write a C program that prints exactly `with proper grammar, but the outcome is a
 * Your program should return `0`
 * Your program should compile without warning when using the `-Wall gcc` option
 
-**Solution:** [5-printf.c](https://github.com/musfy/alx-low_level_programming/blob/master/0x00-hello_world/5-printf.c)
+
 
 ```
 $ amonkeyprogrammer@ubuntu:~/c/0x00$ gcc -Wall 5-printf.c
@@ -352,9 +347,9 @@ $ amonkeyprogrammer@ubuntu:~/c/0x00$
 ```
 ### Repo
         
-          * GitHub repository: alx-low_level_programming
-          * Directory: 0x00-hello_world
-          * File: 5-printf.c
+   * GitHub repository: alx-low_level_programming
+   * Directory: 0x00-hello_world
+   * File: [5-printf.c](https://github.com/musfy/alx-low_level_programming/blob/master/0x00-hello_world/5-printf.c)
 
 ## 6. Size is not grandeur, and territory does not make a nation
 
@@ -366,7 +361,6 @@ Write a C program that prints the size of various types on the computer it is co
 * Your program should return `0`
 * You might have to install the package `libc6-dev-i386` on your Linux (Vagrant) to test the `-m32 gcc` option
 
-**Solution:** [6-size.c](https://github.com/musfy/alx-low_level_programming/blob/master/0x00-hello_world/6-size.c)
 
 ```
 $ amonkeyprogrammer@ubuntu:~/c/0x00$ gcc 6-size.c -m32 -o size32 2> /tmp/32
@@ -389,9 +383,9 @@ $ amonkeyprogrammer@ubuntu:~/c/0x00$
 ```
 ### Repo
         
-          * GitHub repository: alx-low_level_programming
-          * Directory: 0x00-hello_world
-          * File: 6-size.c
+   * GitHub repository: alx-low_level_programming
+   * Directory: 0x00-hello_world
+   * File: [6-size.c](https://github.com/musfy/alx-low_level_programming/blob/master/0x00-hello_world/6-size.c)
 
 
 ## 7. Intel
@@ -402,7 +396,6 @@ Write a script that generates the assembly code (Intel syntax) of a C code and s
 * The output file should be named the same as the C file, but with the extension `.s` instead of `.c`.
     * Example: if the C file is `main.c`, the output file should be `main.s`
 
-**Solution:** [100-intel](https://github.com/musfy/alx-low_level_programming/blob/master/0x00-hello_world/100-intel)
 
 ```
 $ amonkeyprogrammer@ubuntu:~/c/0x00$ export CFILE=main.c
@@ -446,9 +439,9 @@ $ amonkeyprogrammer@ubuntu:~/c/0x00$
 ```
 ### Repo
         
-          * GitHub repository: alx-low_level_programming
-          * Directory: 0x00-hello_world
-          * File: 100-intel
+   * GitHub repository: alx-low_level_programming
+   * Directory: 0x00-hello_world
+   * File: [100-intel](https://github.com/musfy/alx-low_level_programming/blob/master/0x00-hello_world/100-intel)
           
 ## 8. UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity
 
@@ -457,8 +450,7 @@ Write a C program that prints exactly `and that piece of art is useful" - Dora K
 * You are not allowed to use any functions listed in the NAME section of the man (3) `printf` or man (3) `puts`
 * Your program should return 1
 * Your program should compile without any warnings when using the `-Wall gcc` option
-
-**Solution:** [101-quote.c](https://github.com/musfy/alx-low_level_programming/blob/master/0x00-hello_world/101-quote.c)
+ 
 
 ```
 $ amonkeyprogrammer@ubuntu:~/c/0x00$ gcc -Wall -o quote 101-quote.c
@@ -475,7 +467,7 @@ $ amonkeyprogrammer@ubuntu:~/c/0x00$
 ```
 ### Repo
         
-          * GitHub repository: alx-low_level_programming
-          * Directory: 0x00-hello_world
-          * File: 101-quote.c
+   * GitHub repository: alx-low_level_programming
+   * Directory: 0x00-hello_world
+   * File: [101-quote.c](https://github.com/musfy/alx-low_level_programming/blob/master/0x00-hello_world/101-quote.c)
 
