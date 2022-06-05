@@ -74,7 +74,7 @@ This program will assign a random number to the variable `n` each time it is exe
         * if the number is less than 0: `is negative`
     * followed by a new line
 
-**Solution:** [0-positive_or_negative.c](https://github.com/musfy/alx-low_level_programming/blob/master/0x01-variables_if_else_while/0-positive_or_negative.c)
+
 
 ```
 $ amonkeyprogrammer@ubuntu:~/0x01$ gcc -Wall -pedantic -Werror -Wextra 0-positive_or_negative.c -o 0-positive_or_negative
@@ -98,9 +98,9 @@ $ amonkeyprogrammer@ubuntu:~/0x01$
 ```
 ### Repo:
 
-    * GitHub repository: alx-low_level_programming
-    * Directory: 0x01-variables_if_else_while
-    * File: 0-positive_or_negative.c
+   * GitHub repository: alx-low_level_programming
+   * Directory: 0x01-variables_if_else_while
+   * File: [0-positive_or_negative.c](https://github.com/musfeed/alx-low_level_programming/blob/main/0x01-variables_if_else_while/0-positive_or_negative.c)
 
 ## 1. The last digit
 
@@ -117,7 +117,7 @@ This program will assign a random number to the variable `n` each time it is exe
         * if the last digit of `n` is less than 6 and not 0: the string `and is less than 6 and not 0`
     * followed by a new line
 
-**Solution:** [1-last_digit.c](https://github.com/musfy/alx-low_level_programming/blob/master/0x01-variables_if_else_while/1-last_digit.c)
+
 
 ```
 $ amonkeyprogrammer@ubuntu:~/0x01$ gcc -Wall -pedantic -Werror -Wextra 1-last_digit.c -o 1-last_digit
@@ -151,9 +151,9 @@ $ amonkeyprogrammer@ubuntu:~/0x01$
 ```
 ### Repo:
 
-    * GitHub repository: alx-low_level_programming
-    * Directory: 0x01-variables_if_else_while
-    * File: 1-last_digit.c
+   * GitHub repository: alx-low_level_programming
+   * Directory: 0x01-variables_if_else_while
+   * File: [1-last_digit.c](https://github.com/musfeed/alx-low_level_programming/blob/main/0x01-variables_if_else_while/1-last_digit.c)
 
 
 ## 2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
@@ -164,7 +164,7 @@ Write a program that prints the alphabet in lowercase, followed by a new line.
 * All your code should be in the `main` function
 * You can only use `putchar` twice in your code
 
-**Solution:** [2-print_alphabet.c](https://github.com/musfy/alx-low_level_programming/blob/master/0x01-variables_if_else_while/2-print_alphabet.c)
+
 
 ```
 $ amonkeyprogrammer@ubuntu:~/0x01$ gcc -Wall -pedantic -Werror -Wextra 2-print_alphabet.c -o 2-print_alphabet
@@ -175,9 +175,9 @@ $ amonkeyprogrammer@ubuntu:~/0x01$
 
 ### Repo:
 
-    * GitHub repository: alx-low_level_programming
-    * Directory: 0x01-variables_if_else_while
-    * File: 2-print_alphabet.c
+   * GitHub repository: alx-low_level_programming
+   * Directory: 0x01-variables_if_else_while
+   * File: [2-print_alphabet.c](https://github.com/musfeed/alx-low_level_programming/blob/main/0x01-variables_if_else_while/2-print_alphabet.c)
 
 
 ## 3. alphABET
@@ -188,7 +188,6 @@ Write a program that prints the alphabet in lowercase, and then in uppercase, fo
 * All your code should be in the `main` function
 * You can only use `putchar` three times in your code
 
-**Solution:** [3-print_alphabets.c](https://github.com/musfy/alx-low_level_programming/blob/master/0x01-variables_if_else_while/3-print_alphabets.c)
 
 ```
 $ amonkeyprogrammer@ubuntu:~/0x01$ gcc -Wall -pedantic -Werror -Wextra 3-print_alphabets.c -o 3-print_alphabets
@@ -198,9 +197,9 @@ $ amonkeyprogrammer@ubuntu:~/0x01$
 ```
 ### Repo:
 
-    * GitHub repository: alx-low_level_programming
-    * Directory: 0x01-variables_if_else_while
-    * File: 3-print_alphabet.c
+   * GitHub repository: alx-low_level_programming
+   * Directory: 0x01-variables_if_else_while
+   * File: [3-print_alphabets.c](https://github.com/musfeed/alx-low_level_programming/blob/main/0x01-variables_if_else_while/3-print_alphabets.c)
 
 
 ## 4. When I was having that alphabet soup, I never thought that it would pay off
@@ -212,7 +211,7 @@ Write a program that prints the alphabet in lowercase, followed by a new line.
 * All your code should be in the `main` function
 * You can only use `putchar` twice in your code
 
-**Solution:** [4-print_alphabt.c](https://github.com/musfy/alx-low_level_programming/blob/master/0x01-variables_if_else_while/4-print_alphabt.c)
+
 
 ```
 $ amonkeyprogrammer@ubuntu:~/0x01$ gcc -Wall -pedantic -Werror -Wextra 4-print_alphabt.c -o 4-print_alphabt
@@ -223,9 +222,9 @@ $ amonkeyprogrammer@ubuntu:~/0x01$
 ```
 ### Repo:
 
-    * GitHub repository: alx-low_level_programming
-    * Directory: 0x01-variables_if_else_while
-    * File: 4-print_alphabet.c
+   * GitHub repository: alx-low_level_programming
+   * Directory: 0x01-variables_if_else_while
+   * File: [4-print_alphabt.c](https://github.com/musfeed/alx-low_level_programming/blob/main/0x01-variables_if_else_while/4-print_alphabt.c)
 
 
 ## 5. Numbers
@@ -234,7 +233,7 @@ Write a program that prints all single digit numbers of base 10 starting from `0
 
 * All your code should be in the `main` function
 
-**Solution:** [5-print_numbers.c](https://github.com/musfy/alx-low_level_programming/blob/master/0x01-variables_if_else_while/5-print_numbers.c)
+
 
 ```
 $ amonkeyprogrammer@ubuntu:~/0x01$ gcc -Wall -pedantic -Werror -Wextra 5-print_numbers.c -o 5-print_numbers
@@ -244,9 +243,9 @@ $ amonkeyprogrammer@ubuntu:~/0x01$
 ```
 ### Repo:
 
-    * GitHub repository: alx-low_level_programming
-    * Directory: 0x01-variables_if_else_while
-    * File: 5-print_numbers.c
+   * GitHub repository: alx-low_level_programming
+   * Directory: 0x01-variables_if_else_while
+   * File: [5-print_numbers.c](https://github.com/musfeed/alx-low_level_programming/blob/main/0x01-variables_if_else_while/5-print_numbers.c)
 
 
 ## 6. Numberz
@@ -258,7 +257,7 @@ Write a program that prints all single digit numbers of base 10 starting from `0
 * You can only use `putchar` twice in your code
 * All your code should be in the `main` function
 
-**Solution:** [6-print_numberz.c](https://github.com/musfy/alx-low_level_programming/blob/master/0x01-variables_if_else_while/6-print_numberz.c)
+
 
 ```
 $ amonkeyprogrammer@ubuntu:~/0x01$ gcc -Wall -pedantic -Werror -Wextra 6-print_numberz.c -o 6-print_numberz
@@ -268,9 +267,9 @@ $ amonkeyprogrammer@ubuntu:~/0x01$
 ```
 ### Repo:
 
-    * GitHub repository: alx-low_level_programming
-    * Directory: 0x01-variables_if_else_while
-    * File: 6-print_numberz.c
+   * GitHub repository: alx-low_level_programming
+   * Directory: 0x01-variables_if_else_while
+   * File: [6-print_numberz.c](https://github.com/musfeed/alx-low_level_programming/blob/main/0x01-variables_if_else_while/6-print_numberz.c)
 
 ## 7. Smile in the mirror
 
@@ -280,7 +279,7 @@ Write a program that prints the lowercase alphabet in reverse, followed by a new
 * All your code should be in the `main` function
 * You can only use `putchar` twice in your code
 
-**Solution:** [7-print_tebahpla.c](https://github.com/musfy/alx-low_level_programming/blob/master/0x01-variables_if_else_while/7-print_tebahpla.c)
+
 
 ```
 $ amonkeyprogrammer@ubuntu:~/0x01$ gcc -Wall -pedantic -Werror -Wextra 7-print_tebahpla.c -o 7-print_tebahpla
@@ -290,9 +289,9 @@ $ amonkeyprogrammer@ubuntu:~/0x01$
 ```
 ### Repo:
 
-    * GitHub repository: alx-low_level_programming
-    * Directory: 0x01-variables_if_else_while
-    * File: 7-print_tebalpha.c
+   * GitHub repository: alx-low_level_programming
+   * Directory: 0x01-variables_if_else_while
+   * File: [7-print_tebahpla.c](https://github.com/musfeed/alx-low_level_programming/blob/main/0x01-variables_if_else_while/7-print_tebahpla.c)
 
 ## 8. Hexadecimal
 
@@ -302,7 +301,7 @@ Write a program that prints all the numbers of base 16 in lowercase, followed by
 * All your code should be in the `main` function
 * You can only use `putchar` three times in your code
 
-**Solution:** [8-print_base16.c](https://github.com/musfy/alx-low_level_programming/blob/master/0x01-variables_if_else_while/8-print_base16.c)
+
 
 ```
 $ amonkeyprogrammer@ubuntu:~/0x01$ gcc -Wall -pedantic -Werror -Wextra 8-print_base16.c -o 8-print_base16
@@ -312,9 +311,9 @@ $ amonkeyprogrammer@ubuntu:~/0x01$
 ```
 ### Repo:
 
-    * GitHub repository: alx-low_level_programming
-    * Directory: 0x01-variables_if_else_while
-    * File: 8-print_base16.c
+   * GitHub repository: alx-low_level_programming
+   * Directory: 0x01-variables_if_else_while
+   * File: [8-print_base16.c](https://github.com/musfeed/alx-low_level_programming/blob/main/0x01-variables_if_else_while/8-print_base16.c)
 
 ## 9. Patience, persistence and perspiration make an unbeatable combination for success
 
@@ -327,7 +326,7 @@ Write a program that prints all possible combinations of single-digit numbers.
 * You can only use `putchar` four times maximum in your code
 * You are not allowed to use any variable of type `char`
 
-**Solution:** [9-print_comb.c](https://github.com/musfy/alx-low_level_programming/blob/master/0x01-variables_if_else_while/9-print_comb.c)
+
 
 ```
 $ amonkeyprogrammer@ubuntu:~/0x01$ gcc -Wall -pedantic -Werror -Wextra 9-print_comb.c -o 9-print_comb
@@ -337,9 +336,9 @@ $ amonkeyprogrammer@ubuntu:~/0x01$
 ```
 ### Repo:
 
-    * GitHub repository: alx-low_level_programming
-    * Directory: 0x01-variables_if_else_while
-    * File: 9-print_comb.c
+   * GitHub repository: alx-low_level_programming
+   * Directory: 0x01-variables_if_else_while
+   * File: [9-print_comb.c](https://github.com/musfeed/alx-low_level_programming/blob/main/0x01-variables_if_else_while/9-print_comb.c)
 
 
 ## 10. 00..99
@@ -353,7 +352,7 @@ Write a program that prints the numbers from 00 to 99.
 * You are not allowed to use any variable of type `char`
 * All your code should be in the `main` function
 
-**Solution:** [10-print_comb2.c](https://github.com/musfy/alx-low_level_programming/blob/master/0x01-variables_if_else_while/10-print_comb2.c)
+
 
 ```
 $ amonkeyprogrammer@ubuntu:~/0x01$ gcc -Wall -pedantic -Werror -Wextra 10-print_comb2.c -o 10-print_comb2
@@ -363,9 +362,9 @@ $ amonkeyprogrammer@ubuntu:~/0x01$
 ```
 ### Repo:
 
-    * GitHub repository: alx-low_level_programming
-    * Directory: 0x01-variables_if_else_while
-    * File: 10-print_comb2.c
+   * GitHub repository: alx-low_level_programming
+   * Directory: 0x01-variables_if_else_while
+   * File: [10-print_comb2.c](https://github.com/musfeed/alx-low_level_programming/blob/main/0x01-variables_if_else_while/10-print_comb2.c)
 
 
 ## 11. Inventing is a combination of brains and materials. The more brains you use, the less material you need
@@ -382,7 +381,7 @@ Write a program that prints all possible different combinations of two digits.
 * You are not allowed to use any variable of type `char`
 * All your code should be in the `main` function
 
-**Solution:** [100-print_comb3.c](https://github.com/musfy/alx-low_level_programming/blob/master/0x01-variables_if_else_while/100-print_comb3.c)
+
 
 ```
 $ amonkeyprogrammer@ubuntu:~/0x01$ gcc -Wall -pedantic -Werror -Wextra 100-print_comb3.c -o 100-print_comb3
@@ -392,9 +391,9 @@ $ amonkeyprogrammer@ubuntu:~/0x01$
 ```
 ### Repo:
 
-    * GitHub repository: alx-low_level_programming
-    * Directory: 0x01-variables_if_else_while
-    * File: 100-print_comb3.c
+   * GitHub repository: alx-low_level_programming
+   * Directory: 0x01-variables_if_else_while
+   * File: [100-print_comb3.c](https://github.com/musfeed/alx-low_level_programming/blob/main/0x01-variables_if_else_while/100-print_comb3.c)
 
 
 ## 12. The success combination in business is: Do what you do better... and: do more of what you do...
@@ -411,7 +410,7 @@ Write a program that prints all possible different combinations of three digits.
 * You are not allowed to use any variable of type `char`
 * All your code should be in the `main` function
 
-**Solution:** [101-print_comb4.c](https://github.com/musfy/alx-low_level_programming/blob/master/0x01-variables_if_else_while/101-print_comb4.c)
+
 
 ```
 $ amonkeyprogrammer@ubuntu:~/0x01$ gcc -Wall -pedantic -Werror -Wextra 101-print_comb4.c -o 101-print_comb4
@@ -421,6 +420,6 @@ $ amonkeyprogrammer@ubuntu:~/0x01$
 ```
 ### Repo:
 
-    * GitHub repository: alx-low_level_programming
-    * Directory: 0x01-variables_if_else_while
-    * File: 101-print_comb4.c
+   * GitHub repository: alx-low_level_programming
+   * Directory: 0x01-variables_if_else_while
+   * File: [101-print_comb4.c](https://github.com/musfeed/alx-low_level_programming/blob/main/0x01-variables_if_else_while/101-print_comb4.c)
