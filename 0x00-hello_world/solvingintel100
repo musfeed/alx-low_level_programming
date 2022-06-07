@@ -1,0 +1,6 @@
+I ran 
+gcc -S --target-help
+
+the above command gave me target specific options for -S.
+i found the masm=
+masm=intel is the right command
