@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- * main - check the code 
+ * reset_to_98 - check the code
  *
- * Return: Always 0.
+ * @n: point to the memory location of the value
  */
 void reset_to_98(int *n)
 {
