@@ -1,0 +1,30 @@
+#include "main.h"
+#include <stdlib.h>
+#include <stdio.h>
+
+/**
+ * *_strdup - return a pointer to a new space in memory
+ * which contains a copy of the string which is the parameter.
+ * @str: string
+ * Return: Always 0
+ */
+
+char *_strdup(char *str)
+{
+	int i = 0, size = 0;
+	char *m;
+
+	if (str == NULL)
+		return (NULL);
+	for (; str[size] != '\0'; size++)
+		;
+	m = malloc(size * sizeof(*str) + 1);
+	if (m == 0)
+		return (NULL);
+	if (m != 0)
+	{
+		for (; i < size; i++)
+			m[i] = str[i];
+	}
+	return (m);
+}
