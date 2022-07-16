@@ -2,7 +2,7 @@
 
 /**
  * print_square - print a square
- *
+ * @size: Size of the square
  * Return: Always 0.
  */
 void print_square(int size)
@@ -17,6 +17,7 @@ void print_square(int size)
 			_putchar(35);
 		_putchar('\n');
 		}
-	}else
+	}
+	else
 		_putchar('\n');
 }
