@@ -4,7 +4,7 @@ This repository contains solutions to the alx low-level programming projects i d
 ---
 
 <p align="center">
-<a target="_blank" href="https://www.alxafrica.com/software-engineering-2022"><img src="https://github.com/musfeed/alx-low_level_programming/blob/master/alxedt.jpg"></a>
+<a target="_blank" href="https://www.alxafrica.com/software-engineering-2022"><img src="https://github.com/musfeed/alx-low_level_programming/master/alxedt.jpg"></a>
 </p>
 
 ---
