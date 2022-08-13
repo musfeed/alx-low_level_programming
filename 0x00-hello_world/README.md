@@ -4,27 +4,27 @@ This is the first project made with C and consists of knowing some of its bases.
 
 ## Concepts
   For this project, students are expected to look at this concept:
- 
-            <a href="">C programming</a>
 
-      
-  <a href="https://www.youtube.com/embed/co0b0xLEuRM">Hello World</a>
 
-<h2>Resources</h2>
+<a href="https://github.com/musfeed/alx-low_level_programming/blob/main/Everything%20you%20need%20to%20know%20to%20start%20c.pdf">What you need to know to start C programming</a>
+
+<a href="https://www.youtube.com/embed/co0b0xLEuRM">Hello World</a>
+
+## Resources
 
 <p><strong>Read or watch</strong>:</p>
 
 <ul>
-<li><a href="https://github.com/musfy/alx-low_level_programming/blob/master/0x01-variables_if_else_while/Everything%20you%20need%20to%20know%20to%20start%20with%20C.pdf" title="Everything you need to know to start with C.pdf" target="_blank">Everything you need to know to start with C.pdf</a> (<em>You do not have to learn everything in there yet, but make sure you read it entirely first</em>)</li>
-<li><a href="https://en.wikipedia.org/wiki/Dennis_Ritchie" title="Dennis Ritchie" target="_blank">Dennis Ritchie</a> </li>
-<li><a href="https://www.youtube.com/watch?v=de2Hsvxaf8M" title="&quot;C&quot; Programming Language: Brian Kernighan" target="_blank">&ldquo;C&rdquo; Programming Language: Brian Kernighan</a> </li>
-<li><a href="https://www.youtube.com/watch?v=smGalmxPVYc" title="Why C Programming Is Awesome" target="_blank">Why C Programming Is Awesome</a> </li>
-<li><a href="https://www.youtube.com/watch?v=rk2fK2IIiiQ" title="Learning to program in C part 1" target="_blank">Learning to program in C part 1</a> </li>
-<li><a href="https://www.youtube.com/watch?v=FwpP_MsZWnU" title="Learning to program in C part 2" target="_blank">Learning to program in C part 2</a> </li>
-<li><a href="https://www.youtube.com/watch?v=VDslRumKvRA" title="Understanding C program Compilation Process" target="_blank">Understanding C program Compilation Process</a> </li>
-<li><a href="https://github.com/holbertonschool/Betty/wiki" title="Betty Coding Style" target="_blank">Betty Coding Style</a> </li>
-<li><a href="https://twitter.com/unix_byte/status/1024147947393495040?s=21" title="Hash-bang under the hood" target="_blank">Hash-bang under the hood</a> (<em>Look at only after you finish consuming the other resources</em>)</li>
-<li><a href="http://harmful.cat-v.org/software/c++/linus" title="Linus Torvalds on C vs. C++" target="_blank">Linus Torvalds on C vs. C++</a> (<em>Look at only after you finish consuming the other resources</em>)</li>
+<li><a href="https://github.com/musfeed/alx-low_level_programming/blob/main/Everything%20you%20need%20to%20know%20to%20start%20c.pdf" target="_blank">Everything you need to know to start with C</a> (<em>You do not have to learn everything in there yet, but make sure you read it entirely first</em>)</li>
+<li><a href="https://en.wikipedia.org/wiki/Dennis_Ritchie" target="_blank">Dennis Ritchie</a> </li>
+<li><a href="https://www.youtube.com/watch?v=de2Hsvxaf8M" target="_blank">&ldquo;C&rdquo; Programming Language: Brian Kernighan</a> </li>
+<li><a href="https://www.youtube.com/watch?v=smGalmxPVYc" target="_blank">Why C Programming Is Awesome</a> </li>
+<li><a href="https://www.youtube.com/watch?v=rk2fK2IIiiQ" target="_blank">Learning to program in C part 1</a> </li>
+<li><a href="https://www.youtube.com/watch?v=FwpP_MsZWnU" target="_blank">Learning to program in C part 2</a> </li>
+<li><a href="https://www.youtube.com/watch?v=VDslRumKvRA" target="_blank">Understanding C program Compilation Process</a> </li>
+<li><a href="https://github.com/holbertonschool/Betty/wiki" target="_blank">Betty Coding Style</a> </li>
+<li><a href="https://twitter.com/unix_byte/status/1024147947393495040?s=21" target="_blank">Hash-bang under the hood</a> (<em>Look at only after you finish consuming the other resources</em>)</li>
+<li><a href="http://harmful.cat-v.org/software/c++/linus" target="_blank">Linus Torvalds on C vs. C++</a> (<em>Look at only after you finish consuming the other resources</em>)</li>
 </ul>
 
 <p><strong>man or help</strong>:</p>
