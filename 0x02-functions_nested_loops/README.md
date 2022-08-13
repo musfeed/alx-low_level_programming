@@ -45,7 +45,7 @@ Write a program that prints `_putchar`, followed by a new line.
 
 * The program should return `0`
 
-**Solution:** [0-putchar.c](https://github.com/musfeed/alx-low_level_programming/blob/main/0x02-functions_nested_loops/0-putchar.c)
+**Solution:** [0-putchar.c](https://github.com/musfeed/alx-low_level_programming/main/0x02-functions_nested_loops/0-putchar.c)
 
 ```
 julien@ubuntu:~/0x02$  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 0-putchar.c -o 0-putchar
