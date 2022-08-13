@@ -5,16 +5,16 @@
 <p><strong>Read or watch</strong>:</p>
 
 <ul>
-<li><a href="https://github.com/musfy/alx-low_level_programming/blob/master/0x01-variables_if_else_while/Everything%20you%20need%20to%20know%20to%20start%20with%20C.pdf" title="Everything you need to know to start with C.pdf" target="_blank">Everything you need to know to start with C.pdf</a> (<em>You do not have to learn everything in there yet, but make sure you read it entirely first and make sure you understand the slides: “comments”, “Data types | Integer types”, “Declaration”, “Characters”, “Arithmetic operators”, “Variables assignments”, “Comparisons”, “Logical operators”, “if, if&hellip;else”, “while loops”.</em>)</li>
+<li><a href="https://github.com/musfeed/alx-low_level_programming/blob/main/Everything%20you%20need%20to%20know%20to%20start%20c.pdf" ttarget="_blank">Everything you need to know to start with C.pdf</a> (<em>You do not have to learn everything in there yet, but make sure you read it entirely first and make sure you understand the slides: “comments”, “Data types | Integer types”, “Declaration”, “Characters”, “Arithmetic operators”, “Variables assignments”, “Comparisons”, “Logical operators”, “if, if&hellip;else”, “while loops”.</em>)</li>
 <li><a href="https://publications.gbdirect.co.uk//c_book/chapter2/keywords_and_identifiers.html" title="Keywords and identifiers" target="_blank">Keywords and identifiers</a> </li>
-<li><a href="https://publications.gbdirect.co.uk//c_book/chapter2/integral_types.html" title="integers" target="_blank">integers</a> </li>
-<li><a href="https://www.tutorialspoint.com/cprogramming/c_arithmetic_operators.htm" title="Arithmetic Operators in C" target="_blank">Arithmetic Operators in C</a> </li>
-<li><a href="https://www.cprogramming.com/tutorial/c/lesson2.html" title="If statements in C" target="_blank">If statements in C</a> </li>
-<li><a href="https://www.tutorialspoint.com/cprogramming/if_else_statement_in_c.htm" title="if...else statement" target="_blank">if&hellip;else statement</a> </li>
-<li><a href="https://www.tutorialspoint.com/cprogramming/c_relational_operators.htm" title="Relational operators" target="_blank">Relational operators</a> </li>
-<li><a href="https://fresh2refresh.com/c-programming/c-operators-expressions/c-logical-operators/" title="Logical operators" target="_blank">Logical operators</a> </li>
-<li><a href="https://www.tutorialspoint.com/cprogramming/c_while_loop.htm" title="while loop in C" target="_blank">while loop in C</a> </li>
-<li><a href="https://www.youtube.com/watch?v=Ju1LYO9pkaI" title="While loop" target="_blank">While loop</a> </li>
+<li><a href="https://publications.gbdirect.co.uk//c_book/chapter2/integral_types.html" target="_blank">integers</a> </li>
+<li><a href="https://www.tutorialspoint.com/cprogramming/c_arithmetic_operators.htm" target="_blank">Arithmetic Operators in C</a> </li>
+<li><a href="https://www.cprogramming.com/tutorial/c/lesson2.html" target="_blank">If statements in C</a> </li>
+<li><a href="https://www.tutorialspoint.com/cprogramming/if_else_statement_in_c.htm" target="_blank">if&hellip;else statement</a> </li>
+<li><a href="https://www.tutorialspoint.com/cprogramming/c_relational_operators.htm" target="_blank">Relational operators</a> </li>
+<li><a href="https://fresh2refresh.com/c-programming/c-operators-expressions/c-logical-operators/" target="_blank">Logical operators</a> </li>
+<li><a href="https://www.tutorialspoint.com/cprogramming/c_while_loop.htm" target="_blank">while loop in C</a> </li>
+<li><a href="https://www.youtube.com/watch?v=Ju1LYO9pkaI" target="_blank">While loop</a> </li>
 </ul>
 
 <p><strong>man or help</strong>:</p>
